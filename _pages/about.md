@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-​I am a fifth-year Ph.D. student in Economics from State University of New York, at Albany. 
+​I received my Ph.D. in Economics from University at Albany, State University of New York. 
 
-My research interests lie in econometrics, with a particular emphasis on high-dimensional methods—such as the bootstrap and jackknife—for panel and time series data. I am also interested in robust inference methods for both linear and quantile regression models, especially in the presence of heteroskedastic errors, fixed effects (individual or time-specific), serial dependence, and one-way or multi-way clustered dependence.
+My research interests center on urban and regional economics, with a particular emphasis on place-based policy in tourism and transportation. 
 
-My long-term objective is to promote the integration of econometric theory into empirical work by developing inference tools that are both robust and easy to implement.
-
-I am very fortunate to be advised by Prof. Koomla Ulrich Hounyo.
-
-Please feel free to reach me at  `jlin28@albany.edu` .
+Please feel free to reach me at  `tpeng2@albany.edu` .
