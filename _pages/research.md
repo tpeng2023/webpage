@@ -5,68 +5,63 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-* [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
-
-(with K. Ulrich Hounyo) 2025  [Replication](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
-
-<details>
-
-<summary>Abstact</summary>
-
-   This paper studies wild bootstrap-based inference for regression models with multiway clustering. Our proposed method is a multiway counterpart to the (one-way) wild cluster bootstrap approach introduced by Cameron et al. (2008). We establish the validity of our method for studentized statistics. Theoretical results are provided, accommodating arbitrary serial dependence in the common time effects -- an aspect excluded by existing two-way bootstrap-based approaches. Simulation experiments document the potential for enhanced inference with our novel approach. We illustrate the effectiveness of the method by revisiting empirical studies involving multiway clustered and correlated data.
-
-</details>
-
+* Ho, Chun-Yu, Li, Dan, Peng, Tingting, Xiao, Zhijia (2025) Endowment, Market Potential, and SpatialDynamics of Industrial Locations: Evidence from Global Shipbuilding. Economics Letters, 248, 112114.
+* 张亮、邱斌、吴腊梅、彭婷婷：人力资本积累、贸易开放与中国制造业企业创新，《经济学（季刊）》2024 年第 2 期。
+* 陈林、彭婷婷、吕亚楠、张亮：中国对“一带一路”沿线国家农产品出口：基于二元边际视角，《农业技术经济》2018 年第 6 期。
 
 ## Working Papers 
 
-* [Projection-Based Wild Bootstrap under General
-Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
+* [Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings]()
 
-(with K. Ulrich Hounyo)
-2025 [Replication](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
+(with Chun-Yu Ho)
 
 <details>
 
    <summary>   Abstract</summary>
 
-This paper introduces a projection-based wild bootstrap (PWB) method for inference
-in linear regression models with two-way clustered data. We examine all possible
-scenarios for the asymptotic distribution of the estimator—Gaussian and non-
-Gaussian—classifying them into five distinct cases. In one scenario, no procedure can
-achieve uniform consistency under a fully unspecified DGP, and our method is the first
-to cover the remaining four. We identify and apply two diagnostic factors to distinguish
-between these scenarios. In addition, our procedure accommodates arbitrary serial dependence.
-Simulation results demonstrate the accuracy and flexibility of the proposed
-method, making it a robust tool for empirical work involving complex clustering structures.
+This paper examines the economic impacts of large theme park openings in China from 2000
+to 2020 using a newly compiled dataset on county-level theme parks and entrepreneurship. Leveraging the staggered openings of theme parks across various counties, we document three main findings. First, theme park openings lead to a 14% increase in entrepreneurial activities, especially in tourism-related service sectors. This result is robust to the instrumental variable approach, the heterogeneous treatment effect, alternative specification and measurement, and propensity score matching. Second, theme park openings generate spillover effects on neighboring counties within a 50-75 kilometer radius. Third, we identify tourism and agglomeration as the potential mechanisms driving these economic impacts. Back-of-the-envelop calculations suggest that theme park openings promote employment by 11% and overall economic activities by 2%-3%. This study sheds new light on the evaluation of the effectiveness of tourism-related place-based policies.
 
 </details>
 
 
-* [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+* [Air Connectivity and International Travel: Evidence from Cross-border Card Payments]()
 
-(with K. Ulrich Hounyo) 
+(with Chun-Yu Ho, Haruka Takayama, and Li Xu) 
 2025 
 
 <details>
 
    <summary>   Abstract</summary>
 
-Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for handling arbitrary serial dependence in linear regressions with two-way clustered panel data. However, conventional CRVEs often perform poorly in finite samples. We propose improved jackknife CRVEs to enhance inference accuracy. Through extensive simulations, we show that the novel jackknife CRVEs deliver remarkably precise inferences. This strong performance holds even in the presence of two-way  fixed effects. Notably, one of our new approaches significantly mitigates issues of undefined standard errors when CRVEs are not positive definite, ensuring robust and consistent inference across scenarios.
+Many countries seek to attract foreign travelers by improving air connectivity. How do direct flight connections affect international visitors' spending? We address this question using a novel dataset on card payments made by Chinese travelers via point-of-sale (POS) terminals. Our identification strategy exploits overseas improvements in air transportation capacityーarising from infrastructure developments, policy changes, and historical eventsーwhich we treat as exogenous supply shocks to flight frequency. Our IV estimates indicate that a 1% increase in the weekly frequency of direct flights leads to a 1.2% increase in cross-border card transaction value. While improving air connectivity promotes international travel, we find that negative shocks to consumer preferences for destination countries, such as boycotts, diminish the positive impact of air connectivity.
 
 </details>
 
 
+* [Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic]()
 
-* [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
-
-(with K. Ulrich Hounyo)
+(with  Chun-Yu Ho， Patrick McCarthy, and Li Xu) 2nd R&R at JTEP
 2025
 
 <details>
 
 <summary>Abstact</summary>
 
-This paper introduces a novel approach called wild bootstrapping for analyzing mutual fund performance. Our proposed method preserves various characteristics of mutual fund databases, including entry/exit points for each fund (i.e., missing data) and cross-sectional information. We show that our proposed bootstrap tests have a near-optimal size and exhibit greater power compared to widely used standard bootstrap methods for evaluating mutual fund performance. Additionally, we present a novel approach to picking mutual funds that do not underperform others. Our empirical results indicate that a measurable fraction of funds outperform the market. Furthermore, we extend our methods to assess mutual fund market timing abilities.
+We examine the competitive effects of regional airline exits in the U.S. from April 2019 through December 2020, leveraging the first wave of COVID-19 as a natural experiment. Using propensity score matching and difference-in-differences, we find consumers are worse off after exits, with a 15% decrease in flight availability and a 5% rise in fares. Longer-haul markets and those dominated by full-service carriers experience less impact. Exits also reduce connecting flights by 25%. Among competing airlines, regional airlines and those with greater cash reserves increase flight availability, seating capacity, and fares more.
+
+</details>
+
+
+* [Supply-induced Litigation and the Role of Informal Institutions]()
+
+(with Chun-Yu Ho, Saoqing Huang, and Mingda Zhang)
+2025
+
+<details>
+
+<summary>Abstact</summary>
+
+Access to justice is argued to be an integral part of sustainable development and inclusive growth. This paper examines how litigation demand responds to an increased supply of legal professionals, i.e. supply-induced litigation, in a developing economy using a newly constructed city-level panel dataset of litigation rate, law firms, and socioeconomic variables from China throughout 2013-23. Our empirical analysis reaches several conclusions. We find that an increase in the number of law firms has a positive and significant effect on the litigation rate, which supports supply-induced litigation. This result is robust to the instrument variable (IV) estimation. Further, we employ social trust, ethnic diversity, and religiosity as measures for informal institutions and find that supply-induced litigation is more pronounced for cities with higher social trust and lower ethnic diversity. In other words, there is a complementary between formal and informal institutions in driving the use of the judicial system. 
 
 </details>
