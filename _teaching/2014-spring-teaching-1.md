@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## ​Instructor
-* AECO350 Money and Banking, Fall 2024, Winter 2025 @​State University of New York, at Albany
+* International Economics Relations, Spring 2021-Fall 2024 @​State University of New York, at Albany
+* Money and Banking, Summer 2023 @​State University of New York, at Albany
+* Principles of Microeconomics, Fall 2021- Fall 2024 @​State University of New York, at Albany
 
 ## Teaching Assistant
 * Advanced Macroeconomics, Fall 2021 @​State University of New York, at Albany
-* Industrial Organization, Spring 2021, Fall 2020 @​State University of New York, at Albany
+* Industrial Organization, Spring 2021-Fall 2020 @​State University of New York, at Albany
 * Economics Statistics, Spring 2020 @​State University of New York, at Albany
 
 ## Tutor
