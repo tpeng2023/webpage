@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiahao's home page"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
