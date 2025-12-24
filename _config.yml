@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tingting Peng"
 description              : &description "personal description"
 url                      : "https://tpeng2023.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/webpage"
+baseurl                  : "/webpage"
 repository               : "tpengecon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
