@@ -25,7 +25,7 @@ to 2020 using a newly compiled dataset on county-level theme parks and entrepren
 </details>
 
 
-* [Air Connectivity and International Travel: Evidence from Cross-border Card Payments]()
+* [Air Connectivity and International Travel: Evidence from Cross-border Card Payments](https://hatakayama.github.io/paper_web/Air_Connectivity_and_Cross_border_Travel.pdf)
 
 (with Chun-Yu Ho, Haruka Takayama, and Li Xu) 
 2025 
@@ -38,19 +38,6 @@ Many countries seek to attract foreign travelers by improving air connectivity. 
 
 </details>
 
-
-* [Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic]()
-
-(with  Chun-Yu Ho， Patrick McCarthy, and Li Xu) 2nd R&R at JTEP
-2025
-
-<details>
-
-<summary>Abstact</summary>
-
-We examine the competitive effects of regional airline exits in the U.S. from April 2019 through December 2020, leveraging the first wave of COVID-19 as a natural experiment. Using propensity score matching and difference-in-differences, we find consumers are worse off after exits, with a 15% decrease in flight availability and a 5% rise in fares. Longer-haul markets and those dominated by full-service carriers experience less impact. Exits also reduce connecting flights by 25%. Among competing airlines, regional airlines and those with greater cash reserves increase flight availability, seating capacity, and fares more.
-
-</details>
 
 
 * [Supply-induced Litigation and the Role of Informal Institutions]()
