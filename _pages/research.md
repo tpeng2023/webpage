@@ -14,7 +14,7 @@ author_profile: true
 
 * [Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings]()
 
-(with Chun-Yu Ho)
+(with Chun-Yu Ho and Jinbo Jiang)
 
 <details>
 
