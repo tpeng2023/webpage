@@ -350,5 +350,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-Fix duplicate /images in avatar path
