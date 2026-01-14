@@ -29,7 +29,6 @@ This paper examines the economic impacts of large theme park openings in China f
 * [Air Connectivity and International Travel: Evidence from Cross-border Card Payments](https://hatakayama.github.io/paper_web/Air_Connectivity_and_Cross_border_Travel.pdf)
 
 (with Chun-Yu Ho, Haruka Takayama, and Li Xu) 
-2025 
 
 <details>
 
