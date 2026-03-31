@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 * Peng, Tingting, Ho, Chun-Yu, Huang, Shaoqing, Zhang, Mingda. [Supply-induced Litigation and the Role of Informal Institutions](http://doi.org/10.1111/ecot.70028)[J]. Economics of Transition and Institutional Change, 2026, 1-13.
-* Peng, Tingting, Ho, Chun-Yu, McCarthy, Patrick, Xu, Li . Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic[J]. Journal of Transport Economics and Policy, 2026, 60(2), forthcoming.
+* Peng, Tingting, Ho, Chun-Yu, McCarthy, Patrick, Xu, Li . Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic[J]. Journal of Transport Economics and Policy, 2026, 60(2), 102-124.
 * Ho, Chun-Yu, Li, Dan, Peng, Tingting, Xiao, Zhijia. [Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding](https://www.sciencedirect.com/science/article/abs/pii/S0165176524005986)[J]. Economics Letters, 2025, 248, 112114.
 * 张亮, 邱斌, 吴腊梅, 彭婷婷. 人力资本积累、贸易开放与中国制造业企业创新[J]. 经济学 (季刊), 2024,24(02): 379-394.
 * 陈林, 彭婷婷, 吕亚楠, 张亮. 中国对"一带一路"沿线国家农产品出口——基于二元边际视角[J]. 农业技术经济, 2018, (06): 136-144.
@@ -21,7 +21,7 @@ author_profile: true
 
    <summary>   Abstract</summary>
 
-This paper examines the economic impacts of theme park openings in China from 2000 to 2023 using a newly compiled dataset on county-level theme parks and entrepreneurship. Leveraging the staggered openings of theme parks across various counties, we document three main findings. First, theme park openings lead to a 12.9% increase in entrepreneurial activities, especially in tourism-related service industries. Second, theme park openings have positive spatial spillover effects on tourism- and consumption-related industries within a 25-to-50-kilometer radius, and have relocation effects on non-service and real estate industries within 25 kilometers to farther location. Third, we identify tourism-driven spending and agglomeration as the potential mechanisms driving these economic impacts. Back-of-the-envelope calculations suggest that theme park openings bring net benefits to the hosting county as it promotes employment but not increases local public debt significantly.
+This paper examines the economic impacts of theme park openings in China from 2000 to 2023 using a newly compiled county-level dataset on theme parks and entrepreneurship. Leveraging the staggered openings of theme parks across counties, we document three main findings. First, theme park openings lead to a 15.4% increase in entrepreneurial activities, especially in tourism-related service industries. Second, theme park openings have positive spatial spillover effects on tourism- and consumption-related industries within a 50-kilometer radius, and have relocation effects on non-service and real estate industries within 25 kilometers, which push them to more distant locations. Third, we identify tourism-driven spending and agglomeration as the potential mechanisms driving these economic impacts. Back-of-the-envelope calculations suggest that theme park openings bring net benefits to the hosting county by promoting employment, but do not significantly increase local public debt.
 
 </details>
 
