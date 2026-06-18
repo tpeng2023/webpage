@@ -12,4 +12,4 @@ redirect_from:
 
 My research interests center on urban and regional economics, with a particular emphasis on place-based policy in tourism and transportation. 
 
-Please feel free to reach me at  `tpeng2@albany.edu` .
+Please feel free to reach me at  `tpeng3@outlook.com` .
