@@ -13,7 +13,7 @@ author_profile: true
   
 ## Working Papers 
 
-* [Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings](https://www.jianguoyun.com/p/DaMlp5kQnNTZDRiDuqAGIAA)
+* [Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings]
 
 (with Chun-Yu Ho and Jinbo Jiang)
 
@@ -21,7 +21,8 @@ author_profile: true
 
    <summary>   Abstract</summary>
 
-This paper examines whether large tourism-oriented place-based investments generate local economic benefits. We study the staggered openings of large theme parks in China from 2000 to 2023 using a newly compiled county-level dataset on theme park locations and entrepreneurship. We document three main findings. First, theme park openings increase entrepreneurial activity by 15.4%, especially in tourismrelated service industries. Second, we identify tourism-driven demand as a potential mechanism driving these economic impacts. Finally, we find no robust evidence that theme park openings increase LGFV bond issuance. A break-even exercise suggests that break-even depends critically on the persistence of employment gains.
+This paper examines the economic effects of large tourism-oriented place-based investments. We study the staggered openings of large theme parks in China from 2000 to 2023 using a newly compiled county-level dataset on theme park locations and entrepreneurship. We 
+document three main findings. First, theme park openings increase entrepreneurial activity by 15.4%, especially in tourism-related service industries. Second, we identify tourism-driven demand as a plausible mechanism through which theme park development may affect local entrepreneurship. Finally, LGFV bond issuance does not increase significantly around the opening year, while timing tests suggest that some financing may occur earlier. These findings highlight the importance of considering theme park development as a long-term place-based investment process when assessing its fiscal implications.
 
 </details>
 
