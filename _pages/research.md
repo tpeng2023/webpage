@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 * Peng, Tingting, Ho, Chun-Yu, Huang, Shaoqing, Zhang, Mingda. [Supply-induced Litigation and the Role of Informal Institutions](http://doi.org/10.1111/ecot.70028)[J]. Economics of Transition and Institutional Change, 2026, 34(3), 517-529.
-* Peng, Tingting, Ho, Chun-Yu, McCarthy, Patrick, Xu, Li . Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic[J]. Journal of Transport Economics and Policy, 2026, 60(2), 102-124.
+* Peng, Tingting, Ho, Chun-Yu, McCarthy, Patrick, Xu, Li . [Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic](https://www.liverpooluniversitypress.co.uk/doi/abs/10.3828/jtep.2026.6)[J]. Journal of Transport Economics and Policy, 2026, 60(2), 102-124.
 * Ho, Chun-Yu, Li, Dan, Peng, Tingting, Xiao, Zhijia. [Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding](https://www.sciencedirect.com/science/article/abs/pii/S0165176524005986)[J]. Economics Letters, 2025, 248, 112114.
 * 张亮, 邱斌, 吴腊梅, 彭婷婷. 人力资本积累、贸易开放与中国制造业企业创新[J]. 经济学 (季刊), 2024,24(02): 379-394.
 * 陈林, 彭婷婷, 吕亚楠, 张亮. 中国对"一带一路"沿线国家农产品出口——基于二元边际视角[J]. 农业技术经济, 2018, (06): 136-144.
