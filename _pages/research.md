@@ -13,7 +13,7 @@ author_profile: true
   
 ## Working Papers 
 
-* [Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings]
+* Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings
 
 (with Chun-Yu Ho and Jinbo Jiang)
 
